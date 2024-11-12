@@ -5,7 +5,6 @@ This guide helps you set up the Streams project locally. Follow the steps below.
 
 ## Prerequisites
 - Ensure you have Git installed.
-- Ensure you have virtualenvwrapper installed for virtual environment management.
 
 ## Setup Instructions
 
